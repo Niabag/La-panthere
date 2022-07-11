@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .d-bloc .a-btn:hover,
@@ -656,7 +656,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #fffefe!important;
+    color: #fffefe;
 }
 
 .container {
@@ -768,7 +768,7 @@ h4 {
 }
 
 .bgc-white {
-    background-color: #d1cece;
+    background-color: #ffffff;
 }
 
 .bgc-dark-slate-blue {
@@ -823,7 +823,7 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img/agence-la-panthere.jpg");l-b
 }
 
 .bg-presentation {
