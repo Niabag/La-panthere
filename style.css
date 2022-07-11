@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
 }
 
 .container {
@@ -763,7 +763,7 @@ h4 {
 }
 
 .bgc-white {
-    background-color: #e7e1e1;
+    background-color: #d1cece;
 }
 
 .bgc-dark-slate-blue {
