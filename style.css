@@ -687,6 +687,14 @@ p {
     font-size: 12px;
 }
 
+.size-paragraphe{
+    font-size: 18px;
+}
+
+.size-titre{
+    font-size: 22px;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
